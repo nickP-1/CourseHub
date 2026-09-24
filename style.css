@@ -1,3 +1,7 @@
+body {
+    background-color: red !important;
+}
+
 :root {
     --navy: #0B1F3A;
     --light-navy: #132D4F;
